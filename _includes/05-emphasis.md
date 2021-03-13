@@ -1,6 +1,6 @@
-*while* **(noSuccess)**
-**{**
-      *tryAgain();*
-      *if* **(Dead)**
-            **break;**
+*while* **(noSuccess)**  
+**{**  
+      *tryAgain();*  
+        *if* **(Dead)**  
+              **break;**  
 **}**
