@@ -1,0 +1,3 @@
+* Music 🎵
+* Art 🎨
+* Versification ✍️
