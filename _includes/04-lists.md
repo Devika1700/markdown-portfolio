@@ -1,3 +1,3 @@
-Music 🎵
-Art 🎨
-Versification ✍️
+-Music 🎵
+-Art 🎨
+-Versification ✍️
